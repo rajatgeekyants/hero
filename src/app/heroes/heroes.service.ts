@@ -10,9 +10,9 @@ export class HeroesService {
     return of([
       {
         id: 1,
-        name: 'Peter Parker',
-        real: 'Spider-Man',
-        first: 'No Idea',
+        name: 'Spider Man',
+        real: 'Peter Parker',
+        first: 'Amazing Fantasy #15 (August 1962)',
       },
     ]);
   }
